@@ -64,7 +64,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'aamdekar@stanford.edu'
+email: 'aamdekar@stanford.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -75,5 +75,7 @@ Hello there! I am a second-year Master's student at Stanford University's Instit
 In 2022, I spent a wonderful summer interning as an Applied Scientist at Amazon where I worked on Graph Representation Learning to refine the knowledge graph at the backend of the Amazon Catalogue System. In my first year at Stanford, I worked on a wide variety of projects, ranging from Deep Generative Models, to domain-agnostic Self-Supervised Learning and Natural Language Processing.  
 
 Before joining Stanford, I worked as a Quantitative Researcher at a high-frequency trading firm in India where I contributed to the automation and backtesting of trading strategies using Statistical Machine Learning. In 2020, I graduated with a B.Tech after spending 4 wonderful years as an undergraduate at IIT Guwahati, majoring in Mathematics and Computer Science.
+
+If you find my work interesting, or want to discuss about some cool projects that you are working on, feel free to reach out at aamdekar @ stanford dot edu
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
