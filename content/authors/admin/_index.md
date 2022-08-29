@@ -70,7 +70,7 @@ social:
 highlight_name: true
 ---
 
-Hello there! I am a second-year Master's student at Stanford University's Institute of Computational and Mathematical Engineering. I am broadly interested in Artificial Intelligence, specifically in building systems that can reliably and robustly learn to reason.
+Hello there! I am a second-year Master's student at Stanford University's Institute of Computational and Mathematical Engineering (ICME). I am broadly interested in Artificial Intelligence, specifically in building systems that can reliably and robustly learn to reason.
 
 In 2022, I spent a wonderful summer interning as an Applied Scientist at Amazon where I worked on Graph Representation Learning to refine the knowledge graph at the backend of the Amazon Catalogue System. In my first year at Stanford, I worked on a wide variety of projects, ranging from Deep Generative Models, to domain-agnostic Self-Supervised Learning and Natural Language Processing.  
 

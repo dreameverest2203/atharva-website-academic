@@ -25,25 +25,52 @@ experience:
   - title: Applied Scientist Intern
     company: Amazon
     company_url: ''
-    # company_logo: amazon
+    company_logo: amazon_icon
     location: Seattle, Washington
     date_start: '2022-06-27'
     date_end: '2022-09-23'
     description: |2-
-        Owned an end-to-end service that leveraged state-of-the-art permutation invariant Transformers and Graph Neural Networks to 
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Owned an end-to-end service that leveraged state-of-the-art permutation invariant Transformers and Graph Neural Networks to refine the knowledge graph that supports the Amazon Catalogue System.
 
   - title: Graduate Research Assistant
     company: Stanford AI Laboratory
-    company_url: ''
-    company_logo: amazon
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_url: 'https://ai.stanford.edu/'
+    company_logo: sai
+    location: Stanford, California
+    date_start: '2021-09-01'
+    date_end: '2022-05-31'
+    description: |2-
+        * Collaborated with Prof. Stefano Ermon on diffusion models using score matching for representation learning in JAX.
+        * Worked on domain-agnostic Self-Supervised Learning algorithms in Pytorch.
+  
+  - title: Master's Student
+    company: Stanford University
+    company_url: 'https://stanford.edu/'
+    company_logo: stanford
+    location: Stanford, California
+    date_start: '2021-09-01'
+    date_end: ''
+    description: |2-
+
+  - title: Quantitative Researcher
+    company: iRage Capital
+    company_url: 'https://iragecapital.com//'
+    company_logo: irage
+    location: Mumbai, India
+    date_start: '2020-06-01'
+    date_end: '2021-07-01'
+    description: |2-
+
+  - title: B.Tech, Mathematics and Computer Science
+    company: Indian Institute of Technology, Guwahati
+    company_url: 'https://iitg.ac.in//'
+    company_logo: iitg
+    location: Guwahati, India
+    date_start: '2016-07-01'
+    date_end: '2020-06-01'
+    description: |2-
+
+
 
 design:
   columns: '2'
