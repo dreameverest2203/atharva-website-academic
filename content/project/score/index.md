@@ -4,7 +4,7 @@
 title: "Score-based Generative Models"
 summary: "We show that diffusion models based on a score matching objective are improved with a multi-sample training objective."
 authors: []
-tags: ["Generative Models"]
+tags: ["Generative Models", "Deep Learning"]
 # categories: ["Generative Models"]
 date: 2022-08-28T21:37:52-07:00
 
@@ -29,7 +29,7 @@ image:
 
 url_code: "https://github.com/dreameverest2203/score_matching_refined"
 url_pdf:  "https://drive.google.com/file/d/1Tr3mZGBAQfFYm-p1TYECzo6oTc9NfqjK/view?usp=sharing"
-url_slides: ""
+url_slides: "https://drive.google.com/file/d/1bTM_m7Mxi1VBJ1olPerxbAH5F74OPy-H/view?usp=sharing"
 url_video: ""
 
 # Slides (optional).
