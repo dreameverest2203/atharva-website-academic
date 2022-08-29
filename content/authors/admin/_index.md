@@ -78,4 +78,4 @@ Before joining Stanford, I worked as a Quantitative Researcher at a high-frequen
 
 If you find my work interesting, or want to discuss about some cool projects that you are working on, feel free to reach out at aamdekar at stanford dot edu
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
