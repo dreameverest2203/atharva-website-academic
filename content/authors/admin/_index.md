@@ -76,6 +76,6 @@ In 2022, I spent a wonderful summer interning as an Applied Scientist at Amazon 
 
 Before joining Stanford, I worked as a Quantitative Researcher at a high-frequency trading firm in India where I contributed to the automation and backtesting of trading strategies using Statistical Machine Learning. In 2020, I graduated with a B.Tech after spending 4 wonderful years as an undergraduate at IIT Guwahati, majoring in Mathematics and Computer Science.
 
-If you find my work interesting, or want to discuss about some cool projects that you are working on, feel free to reach out at aamdekar @ stanford dot edu
+If you find my work interesting, or want to discuss about some cool projects that you are working on, feel free to reach out at aamdekar at stanford dot edu
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
