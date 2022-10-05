@@ -30,7 +30,8 @@ experience:
     date_start: '2022-06-27'
     date_end: '2022-09-23'
     description: |2-
-        Owned an end-to-end service that leveraged state-of-the-art permutation invariant Transformers and Graph Neural Networks to refine the knowledge graph that supports the Amazon Catalogue System.
+        * Owned an end-to-end service that leveraged state-of-the-art permutation invariant Transformers and Graph Neural Networks to refine the knowledge graph that supports the Amazon Catalogue System.
+        * Designed a model that was 2.5x more computationally efficient than the production model and achieved a significant gain on out-of-distribution tasks.
 
   - title: Graduate Research Assistant
     company: Stanford AI Laboratory
