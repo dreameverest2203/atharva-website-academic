@@ -72,7 +72,7 @@ highlight_name: true
 
 Hello there! I am a second-year Master's student at Stanford University majoring in Computer Science and Applied Mathematics. I am broadly interested in Artificial Intelligence, specifically in building systems that can reliably and robustly learn to reason.
 
-In 2022, I spent a wonderful summer interning as an Applied Scientist at Amazon where I worked on permutation-invariant Large Language Models and Graph Representation Learning to refine the knowledge graph at the backend of the Amazon Catalogue System. In my first year at Stanford, I worked on a wide variety of projects, ranging from Deep Generative Models, to domain-agnostic Self-Supervised Learning and Natural Language Processing.  
+In 2022, I spent a wonderful summer interning as an Applied Scientist at Amazon where I worked on Large permutation-invariant Language Models and Graph Representation Learning to refine the knowledge graph at the backend of the Amazon Catalogue System. In my first year at Stanford, I worked on a wide variety of projects, ranging from Deep Generative Models, to domain-agnostic Self-Supervised Learning and Natural Language Processing.  
 
 Before joining Stanford, I worked as a Quantitative Researcher at a high-frequency trading firm in India where I led the automation and backtesting of trading strategies using Statistical Machine Learning. In 2020, I graduated with a B.Tech after spending 4 wonderful years as an undergraduate at IIT Guwahati, majoring in Mathematics and Computer Science.
 
