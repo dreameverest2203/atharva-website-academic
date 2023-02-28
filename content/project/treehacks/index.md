@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/rajas1998/HealthStoryBackend"
-url_pdf: "https://devpost.com/software/health-story?ref_content=my-projects-tab&ref_feature=my_projects"
+url_devpost: "https://devpost.com/software/health-story?ref_content=my-projects-tab&ref_feature=my_projects"
 url_slides: ""
 url_video: ""
 
