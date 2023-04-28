@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S, Computer Science and Applied Mathematics
+    - course: M.S, Computational and Mathematical Engineering
       institution: Stanford University
       year: 2023
     - course: B.Tech, Mathematics and Computer Science
